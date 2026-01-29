@@ -59,3 +59,6 @@ git remote add origin [YOUR_GITHUB_REPO_URL]
 
 # Push your code
 git push -u origin main
+
+[practicalass_unlocked.pdf](https://github.com/user-attachments/files/24937091/practicalass_unlocked.pdf)
+
