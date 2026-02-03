@@ -20,15 +20,18 @@ Before you start coding, keep these core requirements from your "Integrated Situ
  Ensure the system calculates fees at
 500 Rwf per hour and can generate both individual bills and daily sales reports.
 
-## GitHub Submission Guidelines:
+### GitHub Submission Guidelines:
 When you're ready to share your project on GitHub, follow these steps to ensure your repository is clean and easy for your assessor to navigate.
 1. Repository Structure
 Your main folder should follow the required naming convention:
-FirsPractical_Exam
+
+## FirsPractical_Exam
 . Inside that folder, separate your work:
 
 •/backend-project
+
 •/frontend-project
+
 •README.md
 
 2. Creating your README.md
