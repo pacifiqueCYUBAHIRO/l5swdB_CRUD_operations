@@ -18,10 +18,9 @@ Before you start coding, keep these core requirements from your "Integrated Situ
 
 5. Logic:
  Ensure the system calculates fees at
-500 Rwf per hour
- and can generate both individual bills and daily sales reports.
+500 Rwf per hour and can generate both individual bills and daily sales reports.
 
-:hammer_and_wrench: GitHub Submission Guidelines
+## GitHub Submission Guidelines:
 When you're ready to share your project on GitHub, follow these steps to ensure your repository is clean and easy for your assessor to navigate.
 1. Repository Structure
 Your main folder should follow the required naming convention:
@@ -35,8 +34,8 @@ FirsPractical_Exam
 2. Creating your README.md
 A good
 README.md is the "front door" of your project. Make sure it includes:
-• Project Title: Parking Space Sales Management System (PSSMS).
-Project Description: A brief overview of how the system helps SmartPark move from a manual to a digital system.
+ 1. Project Title: Parking Space Sales Management System (PSSMS).
+ 2. Project Description: A brief overview of how the system helps SmartPark move from a manual to a digital system.
 
 • Group Members: List all members of your group clearly.
 • Tech Stack: Mention React.js, Node.js, Express, Tailwind CSS, and your chosen database (MySQL/MongoDB).
@@ -45,19 +44,19 @@ Project Description: A brief overview of how the system helps SmartPark move fro
 3. Pushing to GitHub
 Open your terminal in your main project folder and run these commands:
 
-# Initialize the repository
+## Initialize the repository
 git init
 
-# Add all files (make sure to use a .gitignore for node_modules!)
+## Add all files (make sure to use a .gitignore for node_modules!)
 git add .
 
-# Create your first commit
+## Create your first commit
 git commit -m "Initial commit: PSSMS project structure and group details"
 
-# Link to your GitHub repo
+## Link to your GitHub repo
 git remote add origin [YOUR_GITHUB_REPO_URL]
 
-# Push your code
+## Push your code
 git push -u origin main
 
 [practicalass_unlocked.pdf](https://github.com/user-attachments/files/24937091/practicalass_unlocked.pdf)
